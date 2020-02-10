@@ -1,0 +1,37 @@
+On-demand purchase:
+
+It allows you to choose any instance type you liked and provision/Termini=ate it at any time(On-demand)
+
+Is the most expensive purchasing option.
+
+Is the flexible purchasing option.
+
+you are only charged when the instance is running.
+
+Per second pricing:
+
+Amazon Linux and Ubundu AMI's(60 second billing minimum)
+
+Hourly pricing: Windows, RHEL, and any other AMI's where per second pricing is not indicated.
+
+You can provision/Terminate an on-demand instance at any time.
+
+Reserved:
+
+Reserved purchasing allows you to purchase an instance for a set time period of one or three years.
+
+This allows for a significant price discount over using on-demand.
+
+Once you buy a reserved instance, you own it for the selected time period and are responsible for the entire price-regardless of how often you use it.
+
+Spot:
+
+Spot pricing is a way for you to "bid" on an instance type, and only pay for and use that instance when the spot price is equal to or below your "bit price"
+
+This option allows Amazon to sell the use of unused instances, for the short amounts of time. at a substantial discount.
+
+Spot prices fluctuate based on supply and demand in the spot marketplace. You are charged by the minute or hours.
+
+When you have an active bid, an instance is provisioned for you when the spot price is equal to or less than you bid price.
+
+A provisioned instances automatically terminate when the spot price is greater than you bid price.
