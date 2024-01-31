@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T04:47:37.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ri_M6iTvY6ZZS4cpbJWu" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T06:13:53.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NJoNhylPo-m1OLZ8_Wy6" version="23.0.2" type="github">
   <diagram name="Page-1" id="zOCsRsPKrreupVHzDvtR">
     <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,16 +7,16 @@
         <mxCell id="DFAubaFJrlPouzBN_8Al-1" value="LNT EDutech Root Account" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_account;" parent="1" vertex="1">
           <mxGeometry x="351" y="10" width="74" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="DFAubaFJrlPouzBN_8Al-2" value="IT Skilling&lt;br&gt;Organization" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_account;" parent="1" vertex="1">
+        <mxCell id="DFAubaFJrlPouzBN_8Al-2" value="Enterprise&lt;br&gt;Organization" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_account;" parent="1" vertex="1">
           <mxGeometry x="180" y="180" width="36.05" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="e0AQTAvBShuOjsl1TsQa-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DFAubaFJrlPouzBN_8Al-3" target="e0AQTAvBShuOjsl1TsQa-3">
+        <mxCell id="e0AQTAvBShuOjsl1TsQa-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DFAubaFJrlPouzBN_8Al-3" target="e0AQTAvBShuOjsl1TsQa-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DFAubaFJrlPouzBN_8Al-3" value="L&amp;amp;T Edutech Training" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_account;" parent="1" vertex="1">
           <mxGeometry x="330" y="182.16" width="34" height="35.84" as="geometry" />
         </mxCell>
-        <mxCell id="e0AQTAvBShuOjsl1TsQa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DFAubaFJrlPouzBN_8Al-4" target="e0AQTAvBShuOjsl1TsQa-1">
+        <mxCell id="e0AQTAvBShuOjsl1TsQa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DFAubaFJrlPouzBN_8Al-4" target="e0AQTAvBShuOjsl1TsQa-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DFAubaFJrlPouzBN_8Al-4" value="College Connect&lt;br&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_account;" parent="1" vertex="1">
@@ -64,10 +64,10 @@
             <mxPoint x="380" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e0AQTAvBShuOjsl1TsQa-1" value="Root User Id&lt;br&gt;&lt;a href=&quot;mailto:dineshkumar.a1@lntecc.com&quot;&gt;dineshkumar.a1@lntecc.com&lt;/a&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user_accounts.svg;" vertex="1" parent="1">
+        <mxCell id="e0AQTAvBShuOjsl1TsQa-1" value="Root User Id&lt;br&gt;&lt;a href=&quot;mailto:dineshkumar.a1@lntecc.com&quot;&gt;dineshkumar.a1@lntecc.com&lt;/a&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user_accounts.svg;" parent="1" vertex="1">
           <mxGeometry x="470" y="310" width="50" height="48.5" as="geometry" />
         </mxCell>
-        <mxCell id="e0AQTAvBShuOjsl1TsQa-3" value="Root User Id&lt;br&gt;&lt;a href=&quot;mailto:pradeep.mathew@lntecc.com&quot;&gt;pradeep.mathew@lntecc.com&lt;/a&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user_accounts.svg;" vertex="1" parent="1">
+        <mxCell id="e0AQTAvBShuOjsl1TsQa-3" value="Root User Id&lt;br&gt;&lt;a href=&quot;mailto:pradeep.mathew@lntecc.com&quot;&gt;pradeep.mathew@lntecc.com&lt;/a&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user_accounts.svg;" parent="1" vertex="1">
           <mxGeometry x="314" y="310" width="50" height="48.5" as="geometry" />
         </mxCell>
       </root>
